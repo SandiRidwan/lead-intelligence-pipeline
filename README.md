@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="thumbnail.png" width="860" alt="Watch full demo on YouTube" />
+    <img src="Thumbnail.png" width="860" alt="Watch full demo on YouTube" />
   </a>
   <br/>
   <sub><i>Click to watch — pipeline run, Slack alerts, CSV output walkthrough</i></sub>
