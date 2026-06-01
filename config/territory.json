@@ -1,0 +1,80 @@
+{
+  "territories": [
+    {
+      "rep_name": "Marcus Johnson",
+      "rep_email": "marcus@company.com",
+      "region": "Northeast US",
+      "countries": [
+        "United States"
+      ],
+      "cities": [
+        "New York",
+        "Boston",
+        "Washington DC",
+        "Philadelphia",
+        "Baltimore"
+      ]
+    },
+    {
+      "rep_name": "Lisa Chen",
+      "rep_email": "lisa@company.com",
+      "region": "West Coast US",
+      "countries": [
+        "United States"
+      ],
+      "cities": [
+        "Los Angeles",
+        "Seattle",
+        "San Francisco",
+        "Portland",
+        "Denver",
+        "Phoenix",
+        "Las Vegas"
+      ]
+    },
+    {
+      "rep_name": "David Torres",
+      "rep_email": "david@company.com",
+      "region": "Central US",
+      "countries": [
+        "United States"
+      ],
+      "cities": [
+        "Chicago",
+        "Dallas",
+        "Houston",
+        "Austin",
+        "Minneapolis",
+        "Kansas City"
+      ]
+    },
+    {
+      "rep_name": "Emma Williams",
+      "rep_email": "emma@company.com",
+      "region": "Canada",
+      "countries": [
+        "Canada"
+      ],
+      "cities": []
+    },
+    {
+      "rep_name": "James Parker",
+      "rep_email": "james@company.com",
+      "region": "UK and Europe",
+      "countries": [
+        "United Kingdom",
+        "Germany",
+        "France",
+        "Netherlands",
+        "Spain"
+      ],
+      "cities": []
+    }
+  ],
+  "fallback_rep": {
+    "rep_name": "Sarah Global",
+    "rep_email": "global@company.com",
+    "region": "International Unmapped",
+    "note": "Handles all leads outside defined territories"
+  }
+}

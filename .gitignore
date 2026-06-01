@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+logs/
+data/
+*.db
+.DS_Store
+write_ingest.py
+write_enrich.py
